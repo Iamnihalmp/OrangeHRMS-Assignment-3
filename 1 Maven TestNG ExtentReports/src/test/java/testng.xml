@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="TestLogin">
+    <classes>
+      <class name="Login"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="TestBuzz">
+    <classes>
+      <class name="BuzzTest"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="TestDropdown">
+    <classes>
+      <class name="DropdownTest"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="TestQuestionMark">
+    <classes>
+      <class name="QuestionMark"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="TestTimesheet">
+    <classes>
+      <class name="Timesheet"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
